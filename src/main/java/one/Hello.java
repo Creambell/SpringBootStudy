@@ -1,6 +1,6 @@
-package com.kh.frist;
+package one;
 
-public class HelloWorld {
+public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello,Akrasia!");
     }
