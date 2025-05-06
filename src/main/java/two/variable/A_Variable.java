@@ -44,4 +44,35 @@ public class A_Variable {
         System.out.println(ch);
         System.out.println(str);
     }
+
+    public void intVariable() {
+
+        //논리형
+        boolean isTrue = true;
+        //숫자형
+        byte bNum = 10;
+        short sNum = 20;
+        int iNum = 30;
+        long lNum = 40;
+        float fNum = 8.0f;
+        double dNum = 4.0d;
+
+        //문자형
+        char ch = 'a';
+        String str = "Hello World!!";
+
+        System.out.println(isTrue);
+        System.out.println(bNum);
+        System.out.println(sNum);
+        System.out.println(iNum);
+        System.out.println(lNum);
+        System.out.println(fNum);
+        System.out.println(dNum);
+        System.out.println(ch);
+        System.out.println(str);
+
+
+    }
+
+
 }
