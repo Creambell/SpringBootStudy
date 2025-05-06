@@ -11,5 +11,7 @@ public class Hello {
         모든 코드는 클래스 안으로
         HelloWorld , String , System 은 클래스
         중가로를 열어서 main은 정의
+        
+        그리고 첫번쨰 커밋 완성
     */
 }
