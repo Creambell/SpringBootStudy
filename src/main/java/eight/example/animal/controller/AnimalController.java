@@ -1,8 +1,8 @@
 package eight.example.animal.controller;
 
-import com.kh.example.test.model.vo.Animal;
-import com.kh.example.test.model.vo.Dog;
-import com.kh.example.test.model.vo.Snake;
+import eight.example.test.model.vo.Animal;
+import eight.example.test.model.vo.Dog;
+import eight.example.test.model.vo.Snake;
 
 public class AnimalController {
 	public void method() {
